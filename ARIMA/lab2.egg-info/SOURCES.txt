@@ -1,0 +1,63 @@
+setup.py
+lab2/ACF_PACF.py
+lab2/Check Stationarity.py
+lab2/ICT4TS lab description - including ARIMA.pdf
+lab2/differenciating.py
+lab2/lab2_preprocessing_createCSV.py
+lab2/rolling_stats.py
+lab2/stationarity_unit_root.py
+lab2/step_6.py
+lab2/step_6_v2.py
+lab2/step_6_v3.py
+lab2/step_7a.py
+lab2/step_7b.py
+lab2/step_8.py
+lab2.egg-info/PKG-INFO
+lab2.egg-info/SOURCES.txt
+lab2.egg-info/dependency_links.txt
+lab2.egg-info/requires.txt
+lab2.egg-info/top_level.txt
+lab2.egg-info/rollling stats imgs/Frankfurt_rolling_stats.pdf
+lab2.egg-info/rollling stats imgs/Frankfurt_rolling_stats_diff.pdf
+lab2.egg-info/rollling stats imgs/Milano_rolling_stats_diff.pdf
+lab2.egg-info/rollling stats imgs/New York City_rolling_stats_diff.pdf
+lab2/Frankfurt/ARIMA(2,0,2)_error_vs_hour_Frankfurt.pdf
+lab2/Frankfurt/ARIMA(2,0,2)_residual_Frankfurt.pdf
+lab2/Frankfurt/Frankfurt.csv
+lab2/Milano/ACF_Milano.pdf
+lab2/Milano/ACF_Milano_zoom.pdf
+lab2/Milano/ARIMA(2,0,2)_Milano.pdf
+lab2/Milano/ARIMA(2,0,2)__residual_Milano.pdf
+lab2/Milano/ARIMA(2,0,2)_error_vs_hour_Milano.pdf
+lab2/Milano/ARIMA(2,0,2)_residual_Milano.pdf
+lab2/Milano/ARIMA(3,0,2)_Milano.pdf
+lab2/Milano/ARIMA(3,0,2)_error_vs_hour_Milano.pdf
+lab2/Milano/ARIMA(3,0,2)_residual_Milano.pdf
+lab2/Milano/ARIMA(4,0,2)_best_model_Milano.pdf
+lab2/Milano/ARIMA(4,0,2)_error_vs_hour_Milano.pdf
+lab2/Milano/Milano.csv
+lab2/Milano/Milano_7b_sliding_vs_expanding.pdf
+lab2/Milano/PACF_Milano.pdf
+lab2/Milano/dataMilano.xslx
+lab2/Milano/exp_training2w_test7d_Milano.pdf
+lab2/Milano/exp_training3w_test1w.pdf
+lab2/New York City/ARIMA(2,0,2)_error_vs_hour_New York City.pdf
+lab2/New York City/ARIMA(2,0,2)_residual_New York City.pdf
+lab2/New York City/ARIMA(2,1,2)_error_vs_hour_New York City.pdf
+lab2/New York City/ARIMA(2,1,2)_residual_New York City.pdf
+lab2/New York City/ARIMA(3,0,2)_New York City.pdf
+lab2/New York City/ARIMA(3,0,2)_error_vs_hour_New York City.pdf
+lab2/New York City/ARIMA(3,0,2)_residual_New York City.pdf
+lab2/New York City/ARIMA(3,1,2)_New York City.pdf
+lab2/New York City/ARIMA(3,1,2)_error_vs_hour_New York City.pdf
+lab2/New York City/ARIMA(3,1,2)_residual_New York City.pdf
+lab2/New York City/New York City.csv
+lab2/pacf_acf_imgs/Frankfurt_ACF_.pdf
+lab2/pacf_acf_imgs/Frankfurt_ACF_zoom.pdf
+lab2/pacf_acf_imgs/Frankfurt_PACF_.pdf
+lab2/pacf_acf_imgs/Milano_ACF_.pdf
+lab2/pacf_acf_imgs/Milano_ACF_zoom.pdf
+lab2/pacf_acf_imgs/Milano_PACF_.pdf
+lab2/pacf_acf_imgs/NewYorkCity_ACF_.pdf
+lab2/pacf_acf_imgs/NewYorkCity_ACF_zoom.pdf
+lab2/pacf_acf_imgs/NewYorkCity_PACF_.pdf
